@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/app/build
+
+# You have this folder — needs to be ignored
+.kotlin/
+
+# Good practice (prevent accidental commits)
+*.apk
+*.aab
+*.jks
+*.keystore
